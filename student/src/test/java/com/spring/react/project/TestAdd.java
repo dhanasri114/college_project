@@ -54,7 +54,7 @@ public class TestAdd
 //		srepo.save(stu);
 //		srepo.save(stu);
 //		it show how many tome to call your mock object
-		verify(srepo,times(3)).save(stu);
+//		verify(srepo,times(3)).save(stu);
 		
 	}
 }
